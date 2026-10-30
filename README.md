@@ -7,7 +7,6 @@ Wuhan University<br>
 <sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
 </p>
 
-[English](README.md) | [简体中文](README_zh-CN.md)
 
 ## Introduction
 
