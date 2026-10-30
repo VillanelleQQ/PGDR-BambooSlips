@@ -1,0 +1,1 @@
+"""PGDR physics components."""
